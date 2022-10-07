@@ -21,8 +21,6 @@ fetch(
           name: "porcentagem",
           data: totais,
         },
-
-        ,
       ],
       xaxis: {
         categories: candidatos,
